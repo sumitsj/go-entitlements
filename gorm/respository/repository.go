@@ -1,4 +1,4 @@
-package entitlements
+package respository
 
 import (
 	"context"
